@@ -16,7 +16,7 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 ## Hong changes it
  I need to change it again after the first changes merged into master branch
  commit another change before creating a new pull request 
- 
+ fix issue #4
 ## License
 
 This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
